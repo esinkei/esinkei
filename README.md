@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and Physics
 - 🌱 I’m currently learning Python, JS.
 - 💞️ I’m looking to collaborate on open source softwares
-- 📫 How to reach me ...
+- 📫 How to reach me sushilkhatri.com
 
 <!---
 esinkei/esinkei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
